@@ -1,2 +1,3 @@
 # PythonTicTacToe
-TicTacToe game made in python, my first project in programming, im very satisfied with the result!
+The TicTacToe game in Python is my first project in programming, and I'm delighted with the result!
+( it was a project for my college too)
